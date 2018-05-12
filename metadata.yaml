@@ -1,0 +1,31 @@
+_repo: Northern-Nut-Growers-Association-Report-of-the-Proceedings-at-the-Thirty-Eighth-Annual-Meetin__22721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22721-h/images/imgcover.jpg
+creator:
+  editor:
+    agent_name: Northern Nut Growers Association
+    alias: Association, Northern Nut Growers
+    gutenberg_agent_id: '9596'
+    url: http://www.gutenberg.org/2009/agents/9596
+description: ''
+gutenberg_bookshelf: Northern Nut Growers Association
+gutenberg_issued: '2007-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuts -- Periodicals'
+- !lcc 'SB'
+- !lcsh 'Nut trees -- Periodicals'
+- !lcsh 'Northern Nut Growers Association -- Periodicals'
+title: 'Northern Nut Growers Association Report of the Proceedings at the Thirty-Eighth
+  Annual Meeting
+
+  Guelph, Ontario, September 3, 4, 5, 1947'
+url: http://www.gutenberg.org/ebooks/22721
